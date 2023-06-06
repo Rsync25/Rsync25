@@ -1,3 +1,6 @@
+![image](https://github.com/Rsync25/Rsync25/assets/135646455/2eb4e320-13fb-4e84-9457-6b73fe809be5)
+
+
 - 👋 Hi, I’m @Rsync25
 - 👀 I’m interested in Bitcoin-only
 - 🌱 I’m currently building Area Layer

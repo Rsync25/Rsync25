@@ -14,7 +14,7 @@
 
      🔵BlueSky: rsync.bsky.social
 
-    [⚡ Zion](https://identity.foundation/ion/explorer/?did=did%3Aion%3AEiDzF1ANmSniXckynAlBz-ufG0KLW1rVVeChfmynch-vGA)
+    [💠 Zion](https://identity.foundation/ion/explorer/?did=did%3Aion%3AEiDzF1ANmSniXckynAlBz-ufG0KLW1rVVeChfmynch-vGA)
 
     [:octocat:Github](https://github.com/Rsync25)
 

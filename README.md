@@ -1,4 +1,4 @@
-![image](https://github.com/Rsync25/Rsync25/assets/135646455/2eb4e320-13fb-4e84-9457-6b73fe809be5)
+![image](https://github.com/Rsync25/Rsync25/assets/135646455/221e0ff7-0eed-4e69-b7d0-a86be9c9f941)
 
 
 - 👋 Hi, I’m @Rsync25

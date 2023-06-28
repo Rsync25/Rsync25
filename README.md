@@ -19,6 +19,7 @@
     [:octocat:Github](https://github.com/Rsync25)
 
     [🕸️ Telegram](https://t.me/Rsync25)
+    [🗺️ Discord](@rsync25)
 
 ![Rsync's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsync25&theme=bluebarry_icons=true)
 

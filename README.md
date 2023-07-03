@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @Rsync25
-- 👀 I’m interested in Bitcoin-only, Nostr-only, Hypercore-only, Lightning Network-only
+- 👀 I’m interested in Bitcoin-only, Nostr-only, Hypercore-only, Lightning Network-only and TB-only
 - 🌱 I’m currently building [Area Layer](https://arealayer.com)
 - 📫 You can contact me
 
@@ -10,15 +10,13 @@
 
     🟣Nostr: npub1c8l997847szpt6prwug6usmfl48v7afun9d4zt6f5xexhrdps45sctmg0w
 
-    ⚡LNURL: Rsync@zbd.gg / Rsync25@stacker.news / rsync@kollider.me
+    ⚡LNURL: Rsync@zbd.gg / Rsync25@stacker.news / rsync@kollider.me / rsync@arealayer.com(soon)
 
      🔵BlueSky: rsync.bsky.social
 
     [💠 Zion](https://identity.foundation/ion/explorer/?did=did%3Aion%3AEiDzF1ANmSniXckynAlBz-ufG0KLW1rVVeChfmynch-vGA)
 
     [:octocat:Github](https://github.com/Rsync25)
-
-    [🕸️ Telegram](https://t.me/Rsync25)
   
     [🗺️ Discord](@rsync25)
 

@@ -1,7 +1,7 @@
 ![image](https://github.com/Rsync25/Rsync25/assets/135646455/53b02cec-0bd1-4d50-9fc8-ab1b86540869)
 
 
-- 👋 Hi, I’m @Rsync25
+- 👋 Hi, I’m Rsync25
 - 👀 I’m interested in Bitcoin-only, Nostr-only, Hypercore-only, Lightning Network-only and TBD-only
 - 🌱 I’m currently building [Area Layer](https://arealayer.com) and many more.
 - 📫 You can contact me

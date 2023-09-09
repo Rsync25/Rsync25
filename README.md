@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Rsync25
 - 👀 I’m interested in Bitcoin-only, Nostr-only, Hypercore-only, Lightning Network-only and TBD-only
-- 🌱 I’m currently building [Area Layer](https://arealayer.com) and more.
+- 🌱 I’m currently building [Area Layer](https://arealayer.com), [Horus](https://github.com/Horus-Org) and more.
 - 📫 You can contact me
 
     [🐦Twitter](https://twitter.com/Rsync25)

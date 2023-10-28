@@ -4,6 +4,9 @@
 - 👋 Hi, I’m Rsync25
 - 👀 I’m interested in Bitcoin-only, Nostr-only, Hypercore-only, Lightning Network-only and TBD-only
 - 🌱 I’m currently building [Area Layer](https://arealayer.com), [Horus](https://github.com/Horus-Org) , [Tribe](https://github.com/Tribe-BTC) and many more
+- 🏗️Other projects:
+  * [Awesome BOLT12](https://github.com/Rsync25/awesome-bolt12)
+  * [Awesome BitVM](https://github.com/Rsync25/awesome-bitvm)
 - 📫 You can contact me
 
     [❌Twitter(X)](https://x.com/Rsync25)

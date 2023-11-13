@@ -13,16 +13,14 @@
 
     🟣Nostr: npub1c8l997847szpt6prwug6usmfl48v7afun9d4zt6f5xexhrdps45sctmg0w
 
-    ⚡LNURL:  Rsync25@stacker.news / / rsync@arealayer.com(soon)
+    ⚡LNURL:  Rsync25@stacker.news /  rsync@arealayer.com(soon)
 
      🔵BlueSky: rsync.bsky.social
 
     [💠 Zion](https://identity.foundation/ion/explorer/?did=did%3Aion%3AEiDzF1ANmSniXckynAlBz-ufG0KLW1rVVeChfmynch-vGA)
 
     [:octocat:Github](https://github.com/Rsync25)
-  
-    [🗺️ Discord](@rsync25)
-<!---
+  <!---
 Rsync25/Rsync25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

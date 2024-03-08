@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Rsync25
 - 👀 I’m interested in Bitcoin, Nostr, Hypercore, Lightning Network, Web5, Taproot, OP Codes, RGB, Taproot Assets...
-- 🌱 I’m currently building [Area Layer](https://arealayer.com), [Horus](https://github.com/Horus-Org) , [Tribe](https://github.com/Tribe-BTC) and many more
+- 🌱 I’m currently building [Area Layer](https://arealayer.com), [Horus](https://github.com/Horus-Org) and many more
 - 🏗️Other projects:
   * [Awesome BOLT12](https://github.com/Rsync25/awesome-bolt12)
   * [Awesome BitVM](https://github.com/Rsync25/awesome-bitvm)

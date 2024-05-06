@@ -20,6 +20,7 @@
 **Ex jobs**
 
 *Sequentia - Developer
+
 *Invebit - CTO protocol (Bitcoin, Lightning and RGB)
 
 

@@ -23,6 +23,12 @@
 
 *Invebit - CTO protocol (Bitcoin, Lightning and RGB)
 
+**Currenctly projects**
+
+*Area Layer
+*Horus
+*Bitswap
+
 
 
 

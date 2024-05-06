@@ -15,6 +15,9 @@
 
 TBD
 
+
+
+
     🟣Nostr: npub1c8l997847szpt6prwug6usmfl48v7afun9d4zt6f5xexhrdps45sctmg0w
 
     ⚡LNURL:  Rsync25@stacker.news /  rsync@arealayer.com(soon)

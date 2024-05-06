@@ -11,6 +11,9 @@
 
     [❌Twitter(X)](https://x.com/Rsync25)
 
+
+
+
 - Ex projects/jobs and currenctly projects 👨‍💻
 
 **Ex Projects**

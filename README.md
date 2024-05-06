@@ -11,13 +11,13 @@
 
     [❌Twitter(X)](https://x.com/Rsync25)
 
-*Ex projects/jobs and currenctly projects 👨‍💻*
+*Past projects/jobs and currenctly projects 👨‍💻*
 
-**Ex Projects**
+**Past Projects**
 
 *[Tribe](https://tribebtc.com/) - Developer 
 
-**Ex jobs**
+**Past jobs**
 
 *[Sequentia](https://sequentia.io) - Developer
 

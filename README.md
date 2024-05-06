@@ -15,13 +15,13 @@
 
 **Ex Projects**
 
-*Tribe - Developer 
+*[Tribe](https://tribebtc.com/) - Developer 
 
 **Ex jobs**
 
-*Sequentia - Developer
+*[Sequentia](https://sequentia.io) - Developer
 
-*Invebit - CTO protocol (Bitcoin, Lightning and RGB)
+*[Invebit](https://www.invebit.com/) - CTO protocol (Bitcoin, Lightning and RGB)
 
 **Currenctly projects**
 
@@ -31,6 +31,9 @@
 
 *Bitswap
 
+*FDK
+
+*Sovereign Kit
 
 
 

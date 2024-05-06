@@ -11,9 +11,18 @@
 
     [❌Twitter(X)](https://x.com/Rsync25)
 
-- Ex projects/jobs and currenctly projects
+- Ex projects/jobs and currenctly projects 👨‍💻
 
-TBD
+**Ex Projects**
+
+*Tribe - Developer 
+
+**Ex jobs**
+
+*Sequentia - Developer
+*Invebit - CTO protocol (Bitcoin, Lightning and RGB)
+
+
 
 
     🟣Nostr: npub1c8l997847szpt6prwug6usmfl48v7afun9d4zt6f5xexhrdps45sctmg0w

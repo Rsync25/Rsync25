@@ -19,7 +19,6 @@
 
 **Past jobs**
 
-*[Sequentia](https://sequentia.io) - Developer (2021-2022)
 
 *[Invebit](https://www.invebit.com/) - CTO protocol (Bitcoin, Lightning and RGB) (2023-2024)
 

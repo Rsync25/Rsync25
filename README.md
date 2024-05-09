@@ -15,7 +15,7 @@
 
 **Past Projects**
 
-*[Tribe](https://tribebtc.com/) - Co-creator, Developer led development (2022-2023)
+*[Tribe](https://tribebtc.com/) - Co-creator, Developer led  (2022-2023)
 
 **Past jobs**
 

@@ -15,13 +15,13 @@
 
 **Past Projects**
 
-*[Tribe](https://tribebtc.com/) - Co-creator, Developer led development 
+*[Tribe](https://tribebtc.com/) - Co-creator, Developer led development (2022-2023)
 
 **Past jobs**
 
-*[Sequentia](https://sequentia.io) - Developer (2021-2022)
+*[Sequentia](https://sequentia.io) -  First Developer (2021-2022)
 
-*[Invebit](https://www.invebit.com/) - CTO protocol (Bitcoin, Lightning and RGB) (2023-2024)
+*[Invebit](https://www.invebit.com/) - CTO protocol and Co-Founder (Bitcoin, Lightning and RGB) (2023-2024)
 
 **Currenctly projects**
 

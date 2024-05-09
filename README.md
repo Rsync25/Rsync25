@@ -35,6 +35,9 @@
 
 *Sovereign Kit
 
+## Donations
+
+[Rsync](https://tourniquet.app/donate/Rsync)
 
 
     🟣Nostr: npub1c8l997847szpt6prwug6usmfl48v7afun9d4zt6f5xexhrdps45sctmg0w

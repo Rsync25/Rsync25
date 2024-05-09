@@ -15,7 +15,7 @@
 
 **Past Projects**
 
-*[Tribe](https://tribebtc.com/) - Developer 
+*[Tribe](https://tribebtc.com/) - Co-creator, Developer led development 
 
 **Past jobs**
 

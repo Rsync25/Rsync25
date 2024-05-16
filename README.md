@@ -35,6 +35,11 @@
 
 *Sovereign Kit
 
+## Other jobs
+
+- Reseacher Bitcoin (Layers, tech, code)
+- Content producer
+
 ## Donations
 
 [Rsync](https://tourniquet.app/donate/Rsync)

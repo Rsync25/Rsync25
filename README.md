@@ -40,6 +40,10 @@
 - Reseacher Bitcoin (Layers, tech, code)
 - Content producer
 
+**PGP**
+
+C4C91B49F0C333C628A2AA7EA7B0E9945CE48694
+
 ## Donations
 
 [Rsync](https://tourniquet.app/donate/Rsync)

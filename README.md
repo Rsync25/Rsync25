@@ -35,7 +35,7 @@
 
 *Sovereign Kit
 
-## Other jobs
+**Other jobs**
 
 - Reseacher Bitcoin (Layers, tech, code)
 - Content producer

@@ -71,8 +71,6 @@
 
 *Horus
 
-*Bitswap
-
 *FDK
 
 *Sovereign Kit

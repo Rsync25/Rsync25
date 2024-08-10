@@ -76,7 +76,7 @@ TBD
 
 ## Studies
 
-- Studying cryptography, Rust and Computer Science.
+- Studying cryptography, AI, Rust and Computer Science.
 
 ## Social media
 

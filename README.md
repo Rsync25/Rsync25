@@ -7,9 +7,6 @@
 - 🏗️Other projects:
   * [Awesome BOLT12](https://github.com/Rsync25/awesome-bolt12)
   * [Awesome BitVM](https://github.com/Rsync25/awesome-bitvm)
-- 📫 You can contact me
-
-    [❌Twitter(X)](https://x.com/Rsync25)
 
 *Past projects/jobs and currenctly projects 👨‍💻*
 
@@ -80,21 +77,28 @@ ssi:kEVXHUVU-dkoo2h$-jlefVac-fDP0NN7-09gvaM@-VgYlE7c
 
 Soon
 
+**X(Twitter)**
+
+[❌Twitter(X)](https://x.com/Rsync25)
+
+**Nostr**🟣
+
+ npub1c8l997847szpt6prwug6usmfl48v7afun9d4zt6f5xexhrdps45sctmg0w
+
+**BlueSky**🔵
+
+rsync.bsky.social
+
+
 ## Donations
 
-[Rsync](https://tourniquet.app/donate/Rsync)
+- [Rsync](https://tourniquet.app/donate/Rsync)
+
+- LNURL:  Rsync25@stacker.news
 
 ## Studies
 
 - Studying cryptography, AI, Rust and Computer Science.
-
-## Social media
-
-    🟣Nostr: npub1c8l997847szpt6prwug6usmfl48v7afun9d4zt6f5xexhrdps45sctmg0w
-
-    ⚡LNURL:  Rsync25@stacker.news /  rsync@arealayer.com(soon)
-
-     🔵BlueSky: rsync.bsky.social
 
   <!---
 Rsync25/Rsync25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

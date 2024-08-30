@@ -70,6 +70,14 @@ C4C9 1B49 F0C3 33C6 28A2 AA7E A7B0 E994 5CE4 8694
 
 ssi:kEVXHUVU-dkoo2h$-jlefVac-fDP0NN7-09gvaM@-VgYlE7c
 
+**Matrix**
+
+@rsync25:matrix.org
+
+**Simplex**
+
+Soon
+
 ## Donations
 
 [Rsync](https://tourniquet.app/donate/Rsync)

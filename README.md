@@ -75,7 +75,7 @@ ssi:kEVXHUVU-dkoo2h$-jlefVac-fDP0NN7-09gvaM@-VgYlE7c
 
 **Simplex**
 
-Soon
+[Address](https://simplex.chat/contact#/?v=2&smp=smp%3A%2F%2FenEkec4hlR3UtKx2NMpOUK_K4ZuDxjWBO1d9Y4YXVaA%3D%40smp14.simplex.im%2FAQhYYeBgPIx3jL8arpJoOTYvNZhhGS_G%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA74pIz1cwdd9yQsqj8_xhsISKUl3CHJS8RjmZSevhi2Q%253D%26srv%3Daspkyu2sopsnizbyfabtsicikr2s4r3ti35jogbcekhm3fsoeyjvgrid.onion)
 
 **X(Twitter)**
 

@@ -89,6 +89,9 @@ ssi:kEVXHUVU-dkoo2h$-jlefVac-fDP0NN7-09gvaM@-VgYlE7c
 
 rsync.bsky.social
 
+**Mastordon**
+
+rsync25@mastodon.social
 
 ## Donations
 

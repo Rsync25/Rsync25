@@ -71,7 +71,7 @@ ssi:kEVXHUVU-dkoo2h$-jlefVac-fDP0NN7-09gvaM@-VgYlE7c
 
 **Matrix**
 
-@rsync25:matrix.org
+rsync25:matrix.org
 
 **Simplex**
 

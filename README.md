@@ -14,7 +14,7 @@
 
 *[Tribe](https://tribebtc.com/) - Co-creator, Developer led  (2022-2023)
 
-*Bitswap - Co-creator and developer (2023-2024)
+*[Bitswap](https://github.com/BitSwap-BiFi/) - Co-creator and developer (2023-2024)
 
 **Past jobs**
 

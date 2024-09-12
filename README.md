@@ -1,7 +1,7 @@
 ![image](https://github.com/Rsync25/Rsync25/assets/135646455/4b31960b-98cd-40c2-80eb-2503c7bd031e)
 
 
-- 👋 Hi, I’m Rsync25
+- 👋 Hi, I’m Rsync25, junior timechain engineer
 - 👀 I’m interested in Bitcoin, Nostr, Hypercore, Lightning Network, Web5, Taproot, OP Codes, RGB, Taproot Assets...
 - 🌱 I’m currently building [Area Layer](https://arealayer.net), [Horus](https://github.com/Horus-Org) and many more
 - 🏗️Other projects:

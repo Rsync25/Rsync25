@@ -22,6 +22,10 @@
 
 *[Invebit](https://www.invebit.com/) - CTO protocol and Co-Founder (Bitcoin, Lightning and RGB) (2023-2024)
 
+**Searching jobs**
+
+- Bitcoin-only companies
+
 **Skills**
 <div>
 
@@ -53,8 +57,6 @@
 *Horus
 
 *FDK
-
-*Sovereign Kit
 
 **Other jobs**
 

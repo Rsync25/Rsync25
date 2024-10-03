@@ -2,6 +2,7 @@
 
 
 - 👋 Hi, I’m Rsync25, junior timechain engineer
+- 📃 My [CV](https://rsync25.github.io/resume/)
 - 👀 I’m interested in Bitcoin, Nostr, Hypercore, Lightning Network, Web5, Taproot, OP Codes, RGB, Taproot Assets...
 - 🌱 I’m currently building [Area Layer](https://arealayer.net), [Horus](https://github.com/Horus-Org) and many more
 - 🏗️Other projects:

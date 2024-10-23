@@ -26,6 +26,7 @@
 **Searching jobs**
 
 - Bitcoin-only companies
+- AI & Robotic companies
 
 **Skills**
 <div>

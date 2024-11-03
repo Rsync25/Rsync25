@@ -64,6 +64,7 @@
 **Other jobs**
 
 - Reseacher Bitcoin (Layers, tech, code)
+- Reascher AI
 - Content producer
 
 **PGP**

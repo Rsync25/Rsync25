@@ -25,7 +25,6 @@
 
 **Searching jobs**
 
-- Bitcoin-only companies
 - AI & Robotic companies
 
 **Skills**
@@ -54,11 +53,13 @@
 
 **Currenctly projects**
 
-*Area Layer
+*[Area Layer](https://github.com/AreaLayer)
 
-*Horus
+*[Horus](https://github.com/Horus-Org)
 
-*FDK
+*[FDK](https://github.com/FrostDevKit)
+
+*[AI & Robotic Labs](https://github.com/AI-Robotic-Labs)
 
 **Other jobs**
 

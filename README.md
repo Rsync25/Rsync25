@@ -1,7 +1,7 @@
 ![image](https://github.com/Rsync25/Rsync25/assets/135646455/4b31960b-98cd-40c2-80eb-2503c7bd031e)
 ![image](https://github.com/user-attachments/assets/cff29ef4-4c9d-4122-8699-0e207aa6be03)
 
-- 👋 Hi, I’m Rsync25, junior timechain engineer
+- 👋 Hi, I’m Rsync25, junior engineer
 - 📃 My [CV](https://rsync25.github.io/resume/)
 - 👀 I’m interested in Bitcoin, Nostr, Hypercore, Lightning Network, AI, Robot...
 - 🌱 I’m currently building [Area Layer](https://arealayer.net), [Horus](https://github.com/Horus-Org) and many more

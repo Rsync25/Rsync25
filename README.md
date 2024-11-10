@@ -104,11 +104,13 @@ rsync25@mastodon.social
 
 ## Studies
 
-**Caption**
+### Caption
 
 - *Years*: Completed studies and missions
 
 - *Present*: Still studying and deeply tech
+
+---
 
 - Computer Science (2024)
 - Bitcoin (2018-2024)

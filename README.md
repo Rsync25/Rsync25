@@ -107,6 +107,8 @@ rsync25@mastodon.social
 ## Studies
 
 - Computer Science (2024)
+- Bitcoin (2018-2024)
+- Lightning Network (2019-2024)
 - Cryptography (2024)
 - Neura Networks (WIP)
 - Deep Learning (WIP)

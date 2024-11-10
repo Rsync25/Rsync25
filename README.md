@@ -3,8 +3,8 @@
 - 👋 Hi, I’m Rsync25, junior engineer
 - Former Bitcoin/Lightning Network engineer
 - 📃 My [CV](https://rsync25.github.io/resume/)
-- 👀 I’m interested in Bitcoin, Nostr, Hypercore, Lightning Network, AI, Robot...
-- 🌱 I’m currently building [Area Layer](https://arealayer.net), [Horus](https://github.com/Horus-Org) and many more
+- 👀 I’m interested in  AI, Robot...
+- 🌱 I’m currently building [AI & Robitc Labs](https://github.com/AI-Robotic-Labs)
 - 🏗️Other projects:
   * [Awesome BOLT12](https://github.com/Rsync25/awesome-bolt12)
   * [Awesome BitVM](https://github.com/Rsync25/awesome-bitvm)
@@ -16,6 +16,8 @@
 *[Tribe](https://tribebtc.com/) - Co-creator, Developer led  (2022-2023)
 
 *[Bitswap](https://github.com/BitSwap-BiFi/) - Co-creator and developer (2023-2024)
+
+*[Area Layer](https://github.com/AreaLayer) - Co-creator, developer (2021-2024)
 
 **Past jobs**
 

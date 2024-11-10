@@ -63,7 +63,6 @@
 **Other jobs**
 
 - Reseacher Bitcoin (Layers, tech, code)
-- Reascher AI
 - Content producer
 
 **PGP**
@@ -107,6 +106,7 @@ rsync25@mastodon.social
 ## Studies
 
 - Studying cryptography, AI, Rust and Computer Science.
+- Sizing LLM Inference Systems
 
   <!---
 Rsync25/Rsync25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

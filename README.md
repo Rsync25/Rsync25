@@ -104,6 +104,11 @@ rsync25@mastodon.social
 
 ## Studies
 
+**Caption**
+
+*Years*: Completed studies and missions
+*Present*: Still studying and deeply tech
+
 - Computer Science (2024)
 - Bitcoin (2018-2024)
 - Lightning Network (2019-2024)
@@ -111,7 +116,8 @@ rsync25@mastodon.social
 - Neural Networks (2023-present)
 - Deep Learning (2023-present)
 - Sizing LLM Inference Systems (2024)
-- AI and LLMs (2023-present) 
+- AI and LLMs (2023-present)
+
   <!---
 Rsync25/Rsync25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

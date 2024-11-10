@@ -55,12 +55,6 @@
 
 **Currenctly projects**
 
-*[Area Layer](https://github.com/AreaLayer)
-
-*[Horus](https://github.com/Horus-Org)
-
-*[FDK](https://github.com/FrostDevKit)
-
 *[AI & Robotic Labs](https://github.com/AI-Robotic-Labs)
 
 **Other jobs**

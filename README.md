@@ -110,10 +110,10 @@ rsync25@mastodon.social
 - Bitcoin (2018-2024)
 - Lightning Network (2019-2024)
 - Cryptography (2020-2024)
-- Neural Networks (WIP)
-- Deep Learning (WIP)
+- Neural Networks (2023-present)
+- Deep Learning (2023-present)
 - Sizing LLM Inference Systems (2024)
-
+- AI and LLMs (2023-present) 
   <!---
 Rsync25/Rsync25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

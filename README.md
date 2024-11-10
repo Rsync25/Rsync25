@@ -116,10 +116,18 @@ rsync25@mastodon.social
 - Bitcoin (2018-2024)
 - Lightning Network (2019-2024)
 - Cryptography (2020-2024)
+- Hypercore (2021-2023)
+- Sizing LLM Inference Systems (2024)
+- RGB protocol (2021-2024)
+- Liquid network (2021-2024)
+- Statechain (2021-2024)
+- RSK (2019-2021)
+- Web5 (2022-2024)
 - Neural Networks (2023-present)
 - Deep Learning (2023-present)
-- Sizing LLM Inference Systems (2024)
 - AI and LLMs (2023-present)
+- Nostr (2022-present)
+- Pubky (2024-present)
 
   <!---
 Rsync25/Rsync25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

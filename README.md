@@ -110,7 +110,7 @@ rsync25@mastodon.social
 - Cryptography (2024)
 - Neura Networks (WIP)
 - Deep Learning (WIP)
-- Sizing LLM Inference Systems
+- Sizing LLM Inference Systems (2024)
 
   <!---
 Rsync25/Rsync25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

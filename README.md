@@ -106,7 +106,10 @@ rsync25@mastodon.social
 
 ## Studies
 
-- Studying cryptography, AI, Rust and Computer Science.
+- Computer Science (2024)
+- Cryptography (2024)
+- Neura Networks (WIP)
+- Deep Learning (WIP)
 - Sizing LLM Inference Systems
 
   <!---

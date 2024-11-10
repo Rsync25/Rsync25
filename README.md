@@ -109,7 +109,7 @@ rsync25@mastodon.social
 - Computer Science (2024)
 - Bitcoin (2018-2024)
 - Lightning Network (2019-2024)
-- Cryptography (2024)
+- Cryptography (2020-2024)
 - Neural Networks (WIP)
 - Deep Learning (WIP)
 - Sizing LLM Inference Systems (2024)

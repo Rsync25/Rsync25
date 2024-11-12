@@ -128,6 +128,8 @@ rsync25@mastodon.social
 - AI and LLMs (2023-present)
 - Nostr (2022-present)
 - Pubky (2024-present)
+- AWS (2022-present)
+- Data structures (2023-present)
 
   <!---
 Rsync25/Rsync25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

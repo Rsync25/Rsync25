@@ -4,7 +4,7 @@
 - Former Bitcoin/Lightning Network engineer
 - 📃 My [CV](https://rsync25.github.io/resume/)
 - 👀 I’m interested in  AI, Robot...
-- 🌱 I’m currently building [AI & Robitc Labs](https://github.com/AI-Robotic-Labs)
+- 🌱 I’m currently building [AI & Robitc Labs](https://github.com/AI-Robotic-Labs) & [Algenix](https://github.com/Algenix-Org)
 - 🏗️Other projects:
   * [Awesome BOLT12](https://github.com/Rsync25/awesome-bolt12)
   * [Awesome BitVM](https://github.com/Rsync25/awesome-bitvm)

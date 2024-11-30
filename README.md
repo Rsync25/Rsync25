@@ -119,6 +119,7 @@ rsync25@mastodon.social
 - Statechain (2021-2024)
 - RSK (2019-2021)
 - Web5 (2022-2024)
+- RAG agents with LLMs (2024)
 - Neural Networks (2023-present)
 - Deep Learning (2023-present)
 - AI and LLMs (2023-present)

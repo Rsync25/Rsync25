@@ -120,6 +120,7 @@ rsync25@mastodon.social
 - RSK (2019-2021)
 - Web5 (2022-2024)
 - RAG agents with LLMs (2024)
+- Jetsnon Nano by Nvidia (2024)
 - Neural Networks (2023-present)
 - Deep Learning (2023-present)
 - AI and LLMs (2023-present)

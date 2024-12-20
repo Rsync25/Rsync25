@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/cff29ef4-4c9d-4122-8699-0e207aa6be03)
 
-- 👋 Hi, I’m Rsync25, junior engineer
+- 👋 Hi, I’m Rsync25, junior engineer, self-taught
 - Former Bitcoin/Lightning Network engineer
 - 📃 My [CV](https://rsync25.github.io/resume/)
 - 👀 I’m interested in  AI, Robot...

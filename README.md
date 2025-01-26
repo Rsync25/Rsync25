@@ -127,6 +127,8 @@ rsync25@mastodon.social
 - Pubky (2024-present)
 - AWS (2022-present)
 - Data structures (2023-present)
+- DevOp (2024-present)
+- Software Engineering (2018-present)
 
   <!---
 Rsync25/Rsync25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

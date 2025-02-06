@@ -21,7 +21,7 @@
 
 *[Sequentia](https://sequentia.io) -  First Developer (2021-2022)
 
-*[Invebit](https://www.invebit.com/) - CTO protocol and Co-Founder (Bitcoin, Lightning and RGB) (2023-2024)
+*Invebit - CTO protocol and Co-Founder (Bitcoin, Lightning and RGB) (2023-2024)
 
 **Searching jobs**
 
